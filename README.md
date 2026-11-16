@@ -1,6 +1,6 @@
 # Muhammed Fariz Palli Valappil
 
-Software engineer in Warsaw. MEng in Computer Science (with distinction, Vistula University, 2026); previously 1.5 years in fintech production support at Accenture.
+Software engineer in Warsaw. MEng in Computer Science (with distinction, Vistula University, 2026). Previously 1.5 years in fintech production support at Accenture.
 
 ## Selected work
 - **[NutriTrack AI](https://github.com/Farizpv/NutriTrack-AI)** ([live demo](https://nutritrack-ai-6s55.onrender.com)): Flask + PostgreSQL app with Google OAuth and OpenAI-powered meal analysis and planning
@@ -9,6 +9,6 @@ Software engineer in Warsaw. MEng in Computer Science (with distinction, Vistula
 - **[YourFruit-AI](https://github.com/Farizpv/YourFruit-AI)**: fruit and freshness classification with a Flask front end
 
 ## Stack
-Python · Flask · PostgreSQL · SQL · PyTorch / Hugging Face Transformers · TensorFlow / Keras · Git · Docker (basics)
+Python | Flask | PostgreSQL | SQL | PyTorch / Hugging Face Transformers | TensorFlow / Keras | Git | Docker (basics)
 
 [LinkedIn](https://www.linkedin.com/in/muhammed-fariz-pv/)
